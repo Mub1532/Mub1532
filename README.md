@@ -1,2 +1,1 @@
-Im Mub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Mubs's GitHub stats](https://github-readme-stats.vercel.app/api?username=mub1532)](https://github.com/anuraghazra/github-readme-stats)
