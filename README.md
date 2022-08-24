@@ -7,7 +7,7 @@
 <h3 align="left">About Me:</h3>
 
 - 🔭 I’m currently working on [RL.Supply](https://rl.supply)
-- 🌱 I’m currently learning Data Science,AWS,Data Engineering 
+- 🌱 I’m currently learning C++
 - 💬 The Language I most commonly use is Typescript
 
 <h3 align="left">Languages and Frameworks:</h3>
